@@ -12,6 +12,8 @@ Java/Kotlin
 JS/Typescript
 
 **If you are curious about authors of sociology, especially Durkheim and Simmel or Brazilian culture ask me let's exchange ideas**
+
+_follow me in reddit_ https://www.reddit.com/user/wesdt
 <!---
 wes-tamagi/wes-tamagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
