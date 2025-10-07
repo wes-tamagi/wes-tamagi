@@ -1,17 +1,16 @@
-**Wes Tamagi**
-I'm a sociology teacher and I'm starting my journey to change my career, 
-I defend Open Source Technology for humanities causes.
-My first OS 🐧 at this moment is _EndevourOS_, but I very like PeppermintOS and PCLinuxOS and my favorite DE is Xfce 🐁 and Plasma
-[Xfce with Plasma wow!!] 
-I like challenges. Should learn two or more projects at the same time?   Yes, it's a crazy idea but very fun!
-
-My favorites programming languages are:
-Julia
-Python
-Java/Kotlin
-JS/Typescript
-
-**If you are curious about authors of sociology, especially Durkheim and Simmel or Brazilian culture ask me let's exchange ideas**
+Wes Tamagi
+Sociology teacher → career transition → open source advocate for social impact.
+Current setup: Fedora KDE (because stability matters when you're juggling multiple projects)
+Learning stack: Julia | Python | Java/Kotlin | JS/TypeScript
+Why one at a time when patterns reveal themselves through comparison?
+DE philosophy: Xfce minimalism + Plasma power = perfect balance
+Let's connect if you're into:
+Durkheim's collective representations in digital communities
+Simmel's stranger theory applied to open source collaboration
+Weber's rationalization in tech architecture
+Brazilian sociology & culture (jeitinho brasileiro as systems logic)
+Open source is social action. Code is infrastructure for human connection.
+📫 Open to collaborations on humanitarian tech projects
 
 _follow me in reddit_ https://www.reddit.com/user/wesdt
 <!---
