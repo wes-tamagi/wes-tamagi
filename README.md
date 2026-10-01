@@ -27,4 +27,3 @@ Daily environment: Omarchy.
 ## Contact
 
 Open to work on public-sector and education software.
-[Reddit](https://www.reddit.com/user/wesdt)
